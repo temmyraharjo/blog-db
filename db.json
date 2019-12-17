@@ -4,7 +4,25 @@
             "id": 1,
             "userName": "admin",
             "firstName": "Temmy",
-            "lastName": "Raharjo"
+            "lastName": "Raharjo",
+            "fullname": "Temmy Raharjo",
+            "password": "p@ssword"
+        },
+        {
+            "id": 2,
+            "userName": "lusia.febriani",
+            "firstName": "Lusia",
+            "lastName": "Febriani",
+            "fullname": "Lusia Febriani",
+            "password": "p@ssword"
+        },
+        {
+            "id": 3,
+            "userName": "jeanetta.clarisse",
+            "firstName": "Jeanetta",
+            "lastName": "Clarisse",
+            "fullname": "Jeanetta Clarrise Raharjo",
+            "password": "p@ssword"
         }
     ]
 }
