@@ -6,7 +6,9 @@
             "firstName": "Temmy",
             "lastName": "Raharjo",
             "fullname": "Temmy Raharjo",
-            "password": "p@ssword"
+            "email": "me@me.com",
+            "password": "p@ssword",
+            "isActive": true
         },
         {
             "id": 2,
@@ -14,7 +16,9 @@
             "firstName": "Lusia",
             "lastName": "Febriani",
             "fullname": "Lusia Febriani",
-            "password": "p@ssword"
+            "email": "me@me.com",
+            "password": "p@ssword",
+            "isActive": false
         },
         {
             "id": 3,
@@ -22,7 +26,9 @@
             "firstName": "Jeanetta",
             "lastName": "Clarisse",
             "fullname": "Jeanetta Clarrise Raharjo",
-            "password": "p@ssword"
+            "email": "me@me.com",
+            "password": "p@ssword",
+            "isActive": true
         }
     ]
 }
